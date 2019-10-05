@@ -4,6 +4,6 @@ USBNinja steals all Wifi SSID's and passwords that a computer has been connected
 # Warning
 Do not use this repository on other peoples' computers without permission.
 
-# Remember to
-Remember to change keyboard layout and email/password according to the target machine and your mail. Additionally remember to make sure that your email settings are set up so it can send mails from Windows powershell.
+# Get started
+Get started with install of drivers here: https://usbninja.com/help/install-arduino-application-drivers/. Remember to change keyboard layout and email/password according to the target machine and your mail in the code. Additionally remember to make sure that your email settings are set up so it can send mails from Windows powershell. 
 
